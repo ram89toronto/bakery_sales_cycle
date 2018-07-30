@@ -15,7 +15,7 @@ Just capturing a Data variable for different products sold in a bakery can give 
       - Average,Maximum,Minimum - Products sold on
        "Day- 1","Day-2"...."Day-28"or"Day-30"or"Day-31" in a MONTH
 
-##  Inputs for this analysis very minimal
+##  Inputs for this analysis bare minimal
         - Product Name
         - Just a Date
         - How many have you sold
