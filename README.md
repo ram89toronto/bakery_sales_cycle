@@ -1,7 +1,7 @@
-# bakery_sales_cycle
-Understanding Sales Cycle of Products in a Bakery
+# bakery_sales_analysis
+Understanding Products Seasonality in a Bakery
 
-Sales Cycle is common scenario in many business. Optimizing products according to sales cycle can improve in designing a better marketing strategy
+Product Seasonality is common scenario in many business. Optimizing products according to seasonality can improve in designing a better marketing strategy
 
 Date - Plays a key role .
 
